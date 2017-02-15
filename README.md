@@ -175,9 +175,9 @@ Feel free to open an [issue](https://github.com/zkafr/LikeNothingRouter/issues) 
 
 ## Contribution
 
-Any improvement is welcome ! Take a look on [the mster branch code](https://github.com/zkafr/LikeNothingRouter/blob/master/src/lnr.js)
+Any improvement is welcome ! Take a look on [the master branch code](https://github.com/zkafr/LikeNothingRouter/blob/master/src/lnr.js)
 Do not forget to send a understandable message with any pull request, it helps me to accept faster
 
 ## License
 
-The code is mine and is yours, so it is under [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.txt)
+This code is mine and is yours, so it is under [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.txt)
