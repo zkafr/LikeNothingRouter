@@ -13,7 +13,7 @@ It handles both static and dynamic routes and call a callback to do some stuff.
 <html>
 <head>
   <!-- Include the librairie -->
-  <script src="https://raw.githubusercontent.com/zkafr/LikeNothingRouter/master/dist/lnr.min.js"></script>
+  <script src="https://github.com/zkafr/LikeNothingRouter/blob/v1.0.0/dist/lnr.min.js"></script>
 </head>
 <body>
   <!-- Add some links in your HTML like this -->
